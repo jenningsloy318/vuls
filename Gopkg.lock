@@ -89,6 +89,22 @@
   version = "v3.2.0"
 
 [[projects]]
+  branch = "master"
+  name = "github.com/future-architect/vuls"
+  packages = [
+    "cache",
+    "commands",
+    "config",
+    "contrib/owasp-dependency-check/parser",
+    "models",
+    "oval",
+    "report",
+    "scan",
+    "util"
+  ]
+  revision = "3144faae5dfa0fb67ad821f37a1bfdb591844e1a"
+
+[[projects]]
   name = "github.com/go-ini/ini"
   packages = ["."]
   revision = "6333e38ac20b8949a8dd68baa3650f4dee8f39f0"
@@ -385,6 +401,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "6f9e0e0abf431f853507394b28b24360e764850217a4bc8e6bdf300b34891dd2"
+  inputs-digest = "9d017d2054d0a8b0f29023f73a04dc30871c6bce547616d7247e695771577225"
   solver-name = "gps-cdcl"
   solver-version = 1

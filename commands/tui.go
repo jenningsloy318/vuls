@@ -24,10 +24,10 @@ import (
 	"os"
 	"path/filepath"
 
-	c "github.com/future-architect/vuls/config"
-	"github.com/future-architect/vuls/models"
-	"github.com/future-architect/vuls/report"
-	"github.com/future-architect/vuls/util"
+	c "github.com/jenningsloy318/vuls/config"
+	"github.com/jenningsloy318/vuls/models"
+	"github.com/jenningsloy318/vuls/report"
+	"github.com/jenningsloy318/vuls/util"
 	"github.com/google/subcommands"
 )
 

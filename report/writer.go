@@ -21,7 +21,7 @@ import (
 	"bytes"
 	"compress/gzip"
 
-	"github.com/future-architect/vuls/models"
+	"github.com/jenningsloy318/vuls/models"
 )
 
 // ResultWriter Interface

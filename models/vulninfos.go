@@ -24,7 +24,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/future-architect/vuls/config"
+	"github.com/jenningsloy318/vuls/config"
 )
 
 // VulnInfos has a map of VulnInfo

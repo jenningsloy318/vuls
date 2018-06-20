@@ -4,8 +4,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/future-architect/vuls/config"
-	"github.com/future-architect/vuls/models"
+	"github.com/jenningsloy318/vuls/config"
+	"github.com/jenningsloy318/vuls/models"
 	"github.com/k0kubun/pp"
 )
 

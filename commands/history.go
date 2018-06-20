@@ -26,8 +26,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	c "github.com/future-architect/vuls/config"
-	"github.com/future-architect/vuls/report"
+	c "github.com/jenningsloy318/vuls/config"
+	"github.com/jenningsloy318/vuls/report"
 	"github.com/google/subcommands"
 )
 

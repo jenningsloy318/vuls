@@ -35,8 +35,8 @@ import (
 	"golang.org/x/crypto/ssh/agent"
 
 	"github.com/cenkalti/backoff"
-	conf "github.com/future-architect/vuls/config"
-	"github.com/future-architect/vuls/util"
+	conf "github.com/jenningsloy318/vuls/config"
+	"github.com/jenningsloy318/vuls/util"
 	homedir "github.com/mitchellh/go-homedir"
 	"github.com/sirupsen/logrus"
 )

@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/future-architect/vuls/config"
-	"github.com/future-architect/vuls/models"
+	"github.com/jenningsloy318/vuls/config"
+	"github.com/jenningsloy318/vuls/models"
 )
 
 // ChatWorkWriter send report to ChatWork

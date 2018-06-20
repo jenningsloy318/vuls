@@ -22,9 +22,9 @@ import (
 	"net"
 	"strings"
 
-	"github.com/future-architect/vuls/config"
-	"github.com/future-architect/vuls/models"
-	"github.com/future-architect/vuls/util"
+	"github.com/jenningsloy318/vuls/config"
+	"github.com/jenningsloy318/vuls/models"
+	"github.com/jenningsloy318/vuls/util"
 )
 
 // inherit OsTypeInterface

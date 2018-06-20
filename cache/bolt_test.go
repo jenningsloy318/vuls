@@ -23,8 +23,8 @@ import (
 	"testing"
 
 	"github.com/boltdb/bolt"
-	"github.com/future-architect/vuls/config"
-	"github.com/future-architect/vuls/models"
+	"github.com/jenningsloy318/vuls/config"
+	"github.com/jenningsloy318/vuls/models"
 	"github.com/sirupsen/logrus"
 )
 

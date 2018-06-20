@@ -23,7 +23,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/future-architect/vuls/config"
+	"github.com/jenningsloy318/vuls/config"
 )
 
 type emailRecorder struct {

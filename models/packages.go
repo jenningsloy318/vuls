@@ -22,7 +22,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/future-architect/vuls/config"
+	"github.com/jenningsloy318/vuls/config"
 )
 
 // Packages is Map of Package
@@ -164,7 +164,7 @@ type Changelog struct {
 // Debian based Linux has both of package and source information in dpkg.
 // OVAL database often includes a source version (Not a binary version),
 // so it is also needed to capture source version for OVAL version comparison.
-// https://github.com/future-architect/vuls/issues/504
+// https://github.com/jenningsloy318/vuls/issues/504
 type SrcPackage struct {
 	Name        string
 	Version     string

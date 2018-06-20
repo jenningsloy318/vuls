@@ -21,10 +21,10 @@ import (
 	"fmt"
 	"time"
 
-	c "github.com/future-architect/vuls/config"
-	"github.com/future-architect/vuls/models"
-	"github.com/future-architect/vuls/oval"
-	"github.com/future-architect/vuls/util"
+	c "github.com/jenningsloy318/vuls/config"
+	"github.com/jenningsloy318/vuls/models"
+	"github.com/jenningsloy318/vuls/oval"
+	"github.com/jenningsloy318/vuls/util"
 )
 
 const (

@@ -22,9 +22,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/future-architect/vuls/cache"
-	"github.com/future-architect/vuls/config"
-	"github.com/future-architect/vuls/models"
+	"github.com/jenningsloy318/vuls/cache"
+	"github.com/jenningsloy318/vuls/config"
+	"github.com/jenningsloy318/vuls/models"
 	"github.com/k0kubun/pp"
 	"github.com/sirupsen/logrus"
 )
@@ -217,7 +217,7 @@ systemd (228-5) unstable; urgency=medium`,
 			},
 		},
 		{
-			//5 https://github.com/future-architect/vuls/pull/350
+			//5 https://github.com/jenningsloy318/vuls/pull/350
 			[]string{
 				"tar",
 				"1.27.1-2+b1",

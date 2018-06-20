@@ -20,7 +20,7 @@ package scan
 import (
 	"testing"
 
-	"github.com/future-architect/vuls/config"
+	"github.com/jenningsloy318/vuls/config"
 )
 
 func TestDecorateCmd(t *testing.T) {

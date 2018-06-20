@@ -24,9 +24,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/future-architect/vuls/config"
-	"github.com/future-architect/vuls/models"
-	"github.com/future-architect/vuls/util"
+	"github.com/jenningsloy318/vuls/config"
+	"github.com/jenningsloy318/vuls/models"
+	"github.com/jenningsloy318/vuls/util"
 
 	ver "github.com/knqyf263/go-rpm-version"
 )
@@ -427,7 +427,7 @@ func (o *redhat) parseUpdatablePacksLines(stdout string) (models.Packages, error
 		// TODO remove
 		// if strings.HasPrefix(line, "Obsoleting") ||
 		// strings.HasPrefix(line, "Security:") {
-		// // see https://github.com/future-architect/vuls/issues/165
+		// // see https://github.com/jenningsloy318/vuls/issues/165
 		// continue
 		// }
 		if len(strings.TrimSpace(line)) == 0 {

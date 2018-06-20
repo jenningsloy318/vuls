@@ -24,7 +24,7 @@ import (
 
 	"context"
 
-	"github.com/future-architect/vuls/commands"
+	"github.com/jenningsloy318/vuls/commands"
 	"github.com/google/subcommands"
 )
 
